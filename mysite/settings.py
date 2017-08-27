@@ -25,7 +25,7 @@ SECRET_KEY = 'dlqaac-=$lm$iimed7ar2av0=gbp*2+*izv%eq1&1!x6$sg&x7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ozlemozhan.pythonanywhere.com"]
 
 
 # Application definition
